@@ -4,3 +4,7 @@ header {
     padding: 1em;
     text-align: center;
 }
+h1 {
+    color: black;
+    font-weight: bold;
+}
